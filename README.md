@@ -1,2 +1,2 @@
-I'm learning to code in multiple languages, python, c, c++, java.
+I'm learning to code in python.
 🐢
