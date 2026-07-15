@@ -1,2 +1,1 @@
-I'm learning to code in python.
-🐢
+Learning python and other languages as needed. 
